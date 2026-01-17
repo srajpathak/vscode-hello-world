@@ -1,2 +1,4 @@
 Once upon a time, this is some random text 
 The story was about learning vscode and github in 2026
+A wise old grandpa named "Senna" watched from a tree
+Added another line for testing
